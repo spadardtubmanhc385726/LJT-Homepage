@@ -1,0 +1,24 @@
+.author__avatar img {
+  width: 132px;
+  height: 132px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.publication-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.publication-list li {
+  margin-bottom: 1rem;
+  overflow-wrap: anywhere;
+}
+
+.publication-list li:last-child {
+  margin-bottom: 0;
+}
+
+.archive__item-title {
+  line-height: 1.4;
+}
