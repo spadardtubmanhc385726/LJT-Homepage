@@ -9,6 +9,7 @@ on:
 
 permissions:
   contents: read
+  administration: write
   pages: write
   id-token: write
 
